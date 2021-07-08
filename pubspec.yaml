@@ -11,7 +11,7 @@ dependencies:
     sdk: flutter
   esc_pos_utils:
     git:
-      url: git://github.com/RangerOfGondor/esc_pos_utils.git
+      url: https://github.com/RangerOfGondor/esc_pos_utils.git
   # esc_pos_utils:
   #   path: ../esc_pos_utils
   charset_converter: ^2.0.0
